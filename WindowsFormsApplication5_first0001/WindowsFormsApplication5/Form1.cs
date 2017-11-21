@@ -25,8 +25,8 @@ namespace WindowsFormsApplication5
         private void button1_Click(object sender, EventArgs e)
         {
             {
-                const int scaleX = 45;
-                const int scaleY = 75;
+                const int scaleX = 595;
+                const int scaleY = 175;
 
                 Point picBoxTopLeft = new Point(0, 0);
                 Point picBoxTopLeftm1 = new Point(-1, 0);
